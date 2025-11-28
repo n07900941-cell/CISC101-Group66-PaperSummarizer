@@ -1,3 +1,22 @@
+---
+##  Change Log (Task 3 Update)
+- Added variable `summary_level` to support two summary modes: "short" and "detailed".
+- Added conditional logic for different summary outputs.
+---
+
+# Module 2 – Section Loop (Updated)
+
+### Variable
+- `summary_level`: determines how detailed each section summary should be.
+
+### Behavior
+- If `summary_level = "short"` → Generate a compact summary of 1–2 sentences per section.  
+- If `summary_level = "detailed"` → Generate a short paragraph **plus** a bullet list of 3–5 key points per section.  
+
+### Notes
+- Maintain consistency with PS2 input/output formats.  
+- Make sure summaries follow factuality rules and integrate with Guardrails.
+
 Module 2 – Section Loop
 
 Iterate through each paper section.
