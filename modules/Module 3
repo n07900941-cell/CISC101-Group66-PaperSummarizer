@@ -1,4 +1,3 @@
----
 ## Change Log (Task 3 Update)
 - Added `evidence_mode` variable to control strict factuality.
 - Added standardized warning messages for missing or too-short sections.
