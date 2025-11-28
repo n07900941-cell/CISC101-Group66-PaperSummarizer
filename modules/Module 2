@@ -1,0 +1,7 @@
+Module 2 – Section Loop
+
+Iterate through each paper section.
+
+Generate concise factual summary (≤ 150 words).
+
+Append to structured output.
