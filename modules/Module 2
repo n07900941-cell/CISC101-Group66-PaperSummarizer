@@ -1,4 +1,3 @@
----
 ##  Change Log (Task 3 Update)
 - Added variable `summary_level` to support two summary modes: "short" and "detailed".
 - Added conditional logic for different summary outputs.
